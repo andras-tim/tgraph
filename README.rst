@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fandras-tim%2Ftchart.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fandras-tim%2Ftchart?ref=badge_shield)
+
 tchart
 ======
 
@@ -99,3 +101,6 @@ Bugs or suggestions? Visit the `issue tracker <https://github.com/andras-tim/tch
 .. |StackedDecorators| image:: https://raw.githubusercontent.com/andras-tim/tchart/master/examples/screenshots/stacked_decorators.png
    :target: https://github.com/andras-tim/tchart/tree/master/examples
    :alt: StackedDecorators
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fandras-tim%2Ftchart.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fandras-tim%2Ftchart?ref=badge_large)
